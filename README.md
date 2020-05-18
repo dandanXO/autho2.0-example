@@ -1,6 +1,6 @@
 # This is OAuth example
 
-Blog: https://yu-jack.github.io/2020/04/27/oauth-implement/
+Blog: 
 
 OAuth Example Node.js Version
 
